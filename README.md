@@ -1,3 +1,1 @@
-# hello-world
-Just another repository
-Hi Humans
+新世纪欧尼辅导奖
