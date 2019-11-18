@@ -1,2 +1,3 @@
 clr
 clk
+clx
